@@ -1,0 +1,63 @@
+,0 Stage,1 Stage,2 Stage,3 Stage
+Men Rate,0.2052980132450331,,,
+Women Rate,0.752895752895753,,,
+1st Class Men,,0.39603960396039606,,
+2nd Class Men,,0.15151515151515152,,
+3rd Class Men,,0.15019762845849802,,
+1st Class Women,,0.963855421686747,,
+2nd Class Women,,0.918918918918919,,
+3rd Class Women,,0.46078431372549017,,
+1st Class Men Children,,,1.0,
+1st Class Men Adults,,,0.4186046511627907,
+1st Class Men Elders,,,0.08333333333333333,
+2nd Class Men Children,,,1.0,
+2nd Class Men Adults,,,0.05747126436781609,
+2nd Class Men Elders,,,0.3333333333333333,
+3rd Class Men Children,,,0.32142857142857145,
+3rd Class Men Adults,,,0.13122171945701358,
+3rd Class Men Elders,,,0.0,
+1st Class Women Children,,,0.6666666666666666,
+1st Class Women Adults,,,0.9746835443037974,
+1st Class Women Elders,,,1.0,
+2nd Class Women Children,,,1.0,
+2nd Class Women Adults,,,0.90625,
+2nd Class Women Elders,,,0.918918918918919,
+3rd Class Women Children,,,0.5333333333333333,
+3rd Class Women Adults,,,0.4225352112676056,
+3rd Class Women Elders,,,1.0,
+1st Class Men Children Alone,,,,0.39603960396039606
+1st Class Men Children FamMem,,,,1.0
+1st Class Men Adults Alone,,,,0.4222222222222222
+1st Class Men Adults FamMem,,,,0.4146341463414634
+1st Class Men Elders Alone,,,,0.1111111111111111
+1st Class Men Elders FamMem,,,,0.0
+2nd Class Men Children Alone,,,,0.15151515151515152
+2nd Class Men Children FamMem,,,,1.0
+2nd Class Men Adults Alone,,,,0.06666666666666667
+2nd Class Men Adults FamMem,,,,0.037037037037037035
+2nd Class Men Elders Alone,,,,0.3333333333333333
+2nd Class Men Elders FamMem,,,,0.15151515151515152
+3rd Class Men Children Alone,,,,0.0
+3rd Class Men Children FamMem,,,,0.3333333333333333
+3rd Class Men Adults Alone,,,,0.14285714285714285
+3rd Class Men Adults FamMem,,,,0.07692307692307693
+3rd Class Men Elders Alone,,,,0.0
+3rd Class Men Elders FamMem,,,,0.15019762845849802
+1st Class Women Children Alone,,,,0.963855421686747
+1st Class Women Children FamMem,,,,0.6666666666666666
+1st Class Women Adults Alone,,,,0.9666666666666667
+1st Class Women Adults FamMem,,,,0.9795918367346939
+1st Class Women Elders Alone,,,,0.963855421686747
+1st Class Women Elders FamMem,,,,1.0
+2nd Class Women Children Alone,,,,0.918918918918919
+2nd Class Women Children FamMem,,,,1.0
+2nd Class Women Adults Alone,,,,0.9
+2nd Class Women Adults FamMem,,,,0.9117647058823529
+2nd Class Women Elders Alone,,,,0.918918918918919
+2nd Class Women Elders FamMem,,,,0.918918918918919
+3rd Class Women Children Alone,,,,0.8
+3rd Class Women Children FamMem,,,,0.48
+3rd Class Women Adults Alone,,,,0.5
+3rd Class Women Adults FamMem,,,,0.358974358974359
+3rd Class Women Elders Alone,,,,1.0
+3rd Class Women Elders FamMem,,,,0.46078431372549017
